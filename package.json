@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "cp index.html public"
+    "build": "mkdir public && cp index.html public"
   }
 }
